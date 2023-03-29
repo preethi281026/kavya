@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>New file<\title>
+<\head>
+<body>
+<hi>
+<\body>
+<\html>
